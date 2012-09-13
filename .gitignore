@@ -1,4 +1,4 @@
 .DS_Store
 include/db.php
-templates_c/*
+templates_c/>*
 cache/*
